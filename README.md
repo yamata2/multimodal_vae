@@ -13,3 +13,8 @@ Author: Tatsuro Yamada <<ymt2.casino@gmail.com>>
 ## Implementation
 - The model used in Mike Wu and Noah Goodman, "Multimodal Generative Models for Scalable Weakly-Supervised Learning."
 - [arXiv](https://arxiv.org/abs/1802.05335)
+
+## Example
+```
+$ CUDA_VISIBLE_DEVICES=0 python learn.py
+```

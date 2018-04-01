@@ -29,9 +29,9 @@ def main():
     n_latent = 64
 
     # training configuration
-    n_epochs = 10
-    save_interval = 5
-    visualize_interval = 5
+    n_epochs = 500
+    save_interval = 100
+    visualize_interval = 10
     train_batchsize = 100
     test_batchsize = 500
 
